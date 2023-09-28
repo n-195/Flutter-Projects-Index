@@ -9,3 +9,4 @@ Repo to hold an index to Flutter Projects done by me under the Dr. Angela Yu Flu
 5. Dicee App
    - [With Stateless Widget](https://github.com/n-195/dicee.git)
    - [With Stateful Widget](https://github.com/n-195/dice.git)
+6. [Boss Challenge 1 - Magic 8 Ball App](https://github.com/n-195/magic_8_ball.git)

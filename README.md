@@ -13,3 +13,7 @@ Repo to hold an index to Flutter Projects done by me under the Dr. Angela Yu Flu
 7. [Xylophone App](https://github.com/n-195/xylophone.git)
 9. [Quizzler App](https://github.com/n-195/quizzler.git)
 10. [Boss Challenge 2 - Destini(Choice-based Storytelling)](https://github.com/n-195/destini.git)
+
+## Multi-Screen/Multi-Component Applications
+11. [BMI Calculator App](https://github.com/n-195/bmi_calculator.git)
+12. [Clima - Weather App](https://github.com/n-195/clima.git)

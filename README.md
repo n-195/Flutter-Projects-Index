@@ -17,3 +17,4 @@ Repo to hold an index to Flutter Projects done by me under the Dr. Angela Yu Flu
 ## Multi-Screen/Multi-Component Applications
 11. [BMI Calculator App](https://github.com/n-195/bmi_calculator.git)
 12. [Clima - Weather App](https://github.com/n-195/clima.git)
+13. [Boss Challenge 3 - Bitcoin Ticker App](https://github.com/n-195/bitcoin_ticker.git)
